@@ -2,8 +2,6 @@
 
 I build AI-Native products & agentic workflows and grow them based on customer data.
 
-Product Manager at [Paycraft](https://www.paycraft.ai/).
-
 ## Selected work
 
 - **[Safe Enough to Answer Locally?](https://github.com/Oscarski/local-language-model-healthcare)** — Research on uncertainty routing for a local medical language model. Evaluated 6,401 exam questions and published the code, results, and methodological audit.
