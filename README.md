@@ -11,11 +11,11 @@ Product Manager at [Paycraft](https://www.paycraft.ai/).
 - **[SpaceRad](https://github.com/Oscarski/SpacRad)** — An ESA Astro Pi team project. I contributed Python and project management to an experiment run on the International Space Station.
 - **[Virtual Agent Perception Analysis](https://github.com/Oscarski/research-workshop-cognitive-science-and-ai)** — Analyzed survey data on how virtual agents' consistency relates to perceived credibility and opinion change.
 
-
-
 ## Tools and interests
 
-Python · TypeScript · Next.js · language model evaluation · OCR · applied statistics
+![Python, TypeScript, Next.js, and PyTorch](https://skillicons.dev/icons?i=py,ts,nextjs,pytorch)
+
+Language model evaluation · OCR · applied statistics
 
 ## Connect
 
