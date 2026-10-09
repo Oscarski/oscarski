@@ -13,22 +13,28 @@ I build AI-Native products & agentic workflows and grow them based on customer d
 
 **Development**
 
-![Python, TypeScript, Next.js, PyTorch, Docker, FastAPI, MongoDB, and Azure](https://skillicons.dev/icons?i=py,ts,nextjs,pytorch,docker,fastapi,mongodb,azure&perline=8)
+<p>
+  <img src="assets/skills/python.svg" alt="Python" height="40" />
+  <img src="assets/skills/typescript.svg" alt="TypeScript" height="40" />
+  <img src="assets/skills/nextjs.svg" alt="Next.js" height="40" />
+  <img src="assets/skills/pytorch.svg" alt="PyTorch" height="40" />
+  <img src="assets/skills/docker.svg" alt="Docker" height="40" />
+  <img src="assets/skills/fastapi.svg" alt="FastAPI" height="40" />
+  <img src="assets/skills/mongodb.svg" alt="MongoDB" height="40" />
+  <img src="assets/skills/azure.svg" alt="Azure" height="40" />
+</p>
 
 **AI and data**
 
 <p>
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/claude-color.svg" alt="Claude" title="Claude" height="40" />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/openai.png" />
-    <img src="https://unpkg.com/@lobehub/icons-static-png@latest/light/openai.png" alt="OpenAI" title="OpenAI" height="40" />
-  </picture>
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langchain-color.svg" alt="LangChain" title="LangChain" height="40" />
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langfuse-color.svg" alt="Langfuse" title="Langfuse" height="40" />
-  <img src="https://cdn.simpleicons.org/databricks" alt="Databricks" title="Databricks" height="40" />
+  <img src="assets/skills/claude.svg" alt="Claude" height="40" />
+  <img src="assets/skills/openai.svg" alt="OpenAI" height="40" />
+  <img src="assets/skills/langchain.svg" alt="LangChain" height="40" />
+  <img src="assets/skills/langfuse.svg" alt="Langfuse" height="40" />
+  <img src="assets/skills/databricks.svg" alt="Databricks" height="40" />
 </p>
 
-Language model evaluation · OCR · applied statistics
+Language model evaluation · applied statistics
 
 ## Connect
 
